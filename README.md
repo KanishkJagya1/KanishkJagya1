@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kanishk Jagya</h1>
-<h3 align="center">A passionate Tech Enthusiast from New Delhi and I am proficient in backend development , Full stack Developer and AI/ML</h3>
+<h3 align="center">A passionate Tech Enthusiast from New Delhi and I am proficient in App Development, expert in Artificial Intelligence and Machine learning and a full time system developer as well</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkjagya1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkjagya1" /> </p>
 
-- 🔭 I’m currently working on **NodeJS, Backend Development**
+- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning and app Development in Flutter as well**
 
-- 🌱 I’m currently learning **MERN stack and AI/ML**
-
-- 🤝 I’m looking for help with **AI/ML and NLP based Projects**
+- 🌱 I’m currently learning **Backend Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KanishkJagya1](https://github.com/KanishkJagya1)
 
-- 💬 Ask me about **Flutter, Dart and python (ML)**
+- 💬 Ask me about **Flutter, Dart and AI/ML**
 
 - 📫 How to reach me **kjagya_be22@thapar.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mKBcFZ55vZzV_JW-a16jLKdhPQXFLrKm/view](https://drive.google.com/file/d/1mKBcFZ55vZzV_JW-a16jLKdhPQXFLrKm/view)
 
-- ⚡ Fun fact **I think I also know cyber Security**
+- ⚡ **DARK MODE BECAUSE LIGHT ATTRACTS BUGS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
