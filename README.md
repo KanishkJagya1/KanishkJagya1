@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Flutter, Dart and AI/ML**
 
-- 📫 How to reach me **kjagya_be22@thapar.edu**
+- 📫 How to reach me **kanishk.code911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mKBcFZ55vZzV_JW-a16jLKdhPQXFLrKm/view](https://drive.google.com/file/d/1mKBcFZ55vZzV_JW-a16jLKdhPQXFLrKm/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vsEPvbKwAVTWLY2J_6GFz9wT0ttK5WZo/view?usp=sharing]
 
 - ⚡ **DARK MODE BECAUSE LIGHT ATTRACTS BUGS**
 
