@@ -1,34 +1,103 @@
 <h1 align="center">Hi 👋, I'm Kanishk Jagya</h1>
-<h3 align="center">A passionate Tech Enthusiast from New Delhi and I am proficient in App Development, expert in Artificial Intelligence and Machine learning and a full time system developer as well</h3>
+<h3 align="center">🚀 AI Researcher • App Developer • Full-Stack Engineer • Tech Enthusiast from New Delhi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkjagya1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkjagya1" /> </p>
-
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning and app Development in Flutter as well**
-
-- 🌱 I’m currently learning **Backend Web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KanishkJagya1](https://github.com/KanishkJagya1)
-
-- 💬 Ask me about **Flutter, Dart and AI/ML**
-
-- 📫 How to reach me **kanishk.code911@gmail.com** 
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vsEPvbKwAVTWLY2J_6GFz9wT0ttK5WZo/view?usp=sharing]
-
-- ⚡ **DARK MODE BECAUSE LIGHT ATTRACTS BUGS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kanishk-jagya-401616253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk jagya" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kjagya_be22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishk_jagya" height="30" width="40" /></a>
-<a href="https://discord.gg/kanishk_off1#4412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kanishk_off1#4412" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishkjagya1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkjagya1&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="kanishkjagya1" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkjagya1&show_icons=true&locale=en&theme=dark" alt="kanishkjagya1" /></p>
+- 🎓 I'm an aspiring **AI/ML Researcher** and **System Developer**
+- 💻 Skilled in **Flutter**, **Dart**, **Python**, **JavaScript**, and **Machine Learning**
+- 🌍 Currently working on projects in **AI**, **App Development**, and **Full-Stack Web**
+- 📚 Learning advanced **Backend Web Development**, **Distributed Systems**, and **ML Ops**
+- 🛠️ Co-developer of projects like **VendIQ**, **LifeStream AI**, **Hand Sign Tracker**, and more
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkjagya1&theme=dark" alt="kanishkjagya1" /></p>
+---
+
+### 🔥 Motto  
+> ⚡ "Dark Mode Because Light Attracts Bugs"
+
+---
+
+### 📫 Contact Me
+- Email: **kanishk.code911@gmail.com**  
+- LinkedIn: [kanishk-jagya](https://www.linkedin.com/in/kanishk-jagya-401616253/)  
+- LeetCode: [@kjagya_be22](https://leetcode.com/u/kjagya_be22/)  
+- Discord: `kanishk_off1#4412`  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
+**AI/ML & Data Tools:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
+
+**Database & Backend:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)  
+
+**Others:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkjagya1&show_icons=true&theme=radical" alt="kanishkjagya1 Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkjagya1&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkjagya1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 [VendIQ - AI-powered sales assistant](https://github.com/KanishkJagya1/VendIQ)
+- 🔹 [LifeStream AI - Real-time Health Monitoring](https://github.com/KanishkJagya1/Lifestream-AI)
+- 🔹 [Hand Sign Tracker - Real-time sign detection using AI](https://github.com/KanishkJagya1/Hand-Sign-Tracker)
+- 🔹 [Blockchain Server Monitor](https://github.com/KanishkJagya1)
+- 🔹 [AcadAlly - AI virtual teacher](https://github.com/KanishkJagya1)
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Winner @ Hacklipse 4.0 – *LifeStream AI*
+- 🥉 2nd Runner Up @ Innohacks 3.0  
+- 👨‍🏫 Speaker Sessions Organized with Arsh Goyal & GFG CEO
+- 🔬 Undergrad Research Assistant @ TIET, NLP + Multimodal Sarcasm Detection
+
+---
+
+### 📄 Resume
+- 📄 [Click Here to View My Resume](https://drive.google.com/file/d/1vsEPvbKwAVTWLY2J_6GFz9wT0ttK5WZo/view?usp=sharing)
+
+---
+
+### 🚀 Let's Build Together!
+
+> 💬 I love working on **open source**, **AI research**, and **next-gen tech** — feel free to collaborate or just say hi!
+
+---
+
