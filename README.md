@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Jagya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AI Researcher • App Developer • Full-Stack Engineer • Tech Enthusiast from New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkjagya1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkjagya1" /> </p>
 
